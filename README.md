@@ -1,4 +1,4 @@
-#O arquivo "Cálculo de inchamento" utiliza a equação de estado PC-SAFT para modelar o teste de inchamento reportado por Al-Ajmi (2011). O código foi implementados como parte da dissertação de mestrado de Silva (2025) e deve ser usado no software Scilab.
+#O arquivo "Cálculo de inchamento" utiliza a equação de estado PC-SAFT para modelar o teste de inchamento reportado por Al-Ajmi (2011). O código foi implementado como parte da dissertação de mestrado de Silva (2025) e deve ser usado no software Scilab.
 
 #Referências:
 
